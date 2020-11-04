@@ -10,6 +10,8 @@ Go Restaurant - GoStack
 
 - [x] Cadastro de pratos(comidas)
 - [x] Edição dos pratos(comidas)
+- [x] Exclusão dos pratos(comidas)
+- [x] Definir disponibilidade dos pratos(comidas)
 
 # Banner
 
