@@ -3,7 +3,7 @@ Go Restaurant - GoStack
 
 # Status
 <h4 align="center"> 
-	🚧  Proffy 🚀 Concluído  🚧
+	🚧  Go Restaurant Web 🚀 Concluído  🚧
 </h4>
 
 # Features
